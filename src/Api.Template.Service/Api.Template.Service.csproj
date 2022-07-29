@@ -21,7 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Gateway.Data\Gateway.Data.csproj" />
+      <ProjectReference Include="..\Api.Template.Data\Api.Template.Data.csproj" />
       <ProjectReference Include="..\Gateway.ViewModel\Gateway.ViewModel.csproj" />
     </ItemGroup>
 

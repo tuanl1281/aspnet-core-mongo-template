@@ -1,11 +1,12 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway.Application", "src\Gateway.Application\Gateway.Application.csproj", "{CC575422-8FE7-45F9-8776-61825C19CE01}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Template.Application", "src\Api.Template.Application\Api.Template.Application.csproj", "{CC575422-8FE7-45F9-8776-61825C19CE01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway.Data", "src\Gateway.Data\Gateway.Data.csproj", "{78F5706B-5C6D-4A5F-87BE-70C959DCB103}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Template.Data", "src\Api.Template.Data\Api.Template.Data.csproj", "{78F5706B-5C6D-4A5F-87BE-70C959DCB103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway.Service", "src\Gateway.Service\Gateway.Service.csproj", "{88EF0028-3F26-4895-94F9-3AF10D175326}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Template.ViewModel", "src\Api.Template.ViewModel\Api.Template.ViewModel.csproj", "{ECC0EAE7-5A24-48D0-B50B-49F8F389F9AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway.ViewModel", "src\Gateway.ViewModel\Gateway.ViewModel.csproj", "{ECC0EAE7-5A24-48D0-B50B-49F8F389F9AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Template.Service", "src\Api.Template.Service\Api.Template.Service.csproj", "{E98A0797-9953-41C7-B060-873593BCED2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,13 +22,13 @@ Global
 		{78F5706B-5C6D-4A5F-87BE-70C959DCB103}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78F5706B-5C6D-4A5F-87BE-70C959DCB103}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78F5706B-5C6D-4A5F-87BE-70C959DCB103}.Release|Any CPU.Build.0 = Release|Any CPU
-		{88EF0028-3F26-4895-94F9-3AF10D175326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88EF0028-3F26-4895-94F9-3AF10D175326}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88EF0028-3F26-4895-94F9-3AF10D175326}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88EF0028-3F26-4895-94F9-3AF10D175326}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ECC0EAE7-5A24-48D0-B50B-49F8F389F9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ECC0EAE7-5A24-48D0-B50B-49F8F389F9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECC0EAE7-5A24-48D0-B50B-49F8F389F9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC0EAE7-5A24-48D0-B50B-49F8F389F9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98A0797-9953-41C7-B060-873593BCED2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98A0797-9953-41C7-B060-873593BCED2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98A0797-9953-41C7-B060-873593BCED2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98A0797-9953-41C7-B060-873593BCED2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

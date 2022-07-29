@@ -25,7 +25,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Api.Template.ViewModel\Gateway.ViewModel.csproj" />
+      <ProjectReference Include="..\Api.Template.ViewModel\Api.Template.ViewModel.csproj" />
     </ItemGroup>
 
 </Project>

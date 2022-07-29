@@ -38,8 +38,9 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\Gateway.Data\Gateway.Data.csproj" />
-        <ProjectReference Include="..\Gateway.Service\Gateway.Service.csproj" />
+        <ProjectReference Include="..\Api.Template.Data\Api.Template.Data.csproj" />
+        <ProjectReference Include="..\Api.Template.Service\Api.Template.Service.csproj" />
+        <ProjectReference Include="..\Gateway.Service\Api.Template.Service.csproj" />
         <ProjectReference Include="..\Gateway.ViewModel\Gateway.ViewModel.csproj" />
     </ItemGroup>
 
